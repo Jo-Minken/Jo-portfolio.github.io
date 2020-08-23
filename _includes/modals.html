@@ -55,19 +55,21 @@
 
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Client:
+                                    <li>
                                         <strong><a href="javascript:void(0);">{{ post.client }}</a>
                                         </strong>
+                                          |  
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
-                                    <li>Date:
+                                    <li>Finished Date:
                                         <strong><a href="javascript:void(0);">{{ post.project-date }}</a>
                                         </strong>
+                                          |  
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
+                                    <li>
                                         <strong><a href="javascript:void(0);">{{ post.category }}</a>
                                         </strong>
                                     </li>

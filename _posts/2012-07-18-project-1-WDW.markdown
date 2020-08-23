@@ -5,7 +5,7 @@ date: 2012-07-15
 img: pj-01.jpg
 project-date: January 2012
 client: Graduate Project
-category: Web Development
+category: Website
 title: Wed Don't Wait
 
 purpose: Help couples to manage their wedding and match the wedding-related vendors to the couples. After the wedding date is decided, users can choose the wedding type (traditional or western type) of their wedding. The system will then list the steps of preparation and automatically schedule the date of each step.
