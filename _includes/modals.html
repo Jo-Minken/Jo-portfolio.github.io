@@ -1,0 +1,83 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ post.title }}</h2>
+                            <hr class="star-primary">
+
+                            <div class="jumbotron">
+                                <h3>Purpose</h3>
+                                <p class="lead">{{ post.purpose }}</p>
+
+                                {% if post.description %}
+                                    <p class="lead">{{ post.description }}</p>
+                                {% endif %}
+                            </div>
+
+                            <div class="bg-white rounded border-primary shadow-sm seperate">
+                                <h3 class="border-bottom">Features</h3>
+                                {% for feature in post.features %}
+                                <div class="media text-muted">
+                                    <p class="media-body border-bottom">
+                                    {{ feature }}
+                                    </p>
+                                </div>
+                                {% endfor %}
+                            </div>
+
+                            {% if post.prize %}
+                            <div class="bg-white rounded border-primary shadow-sm seperate">
+                                <p class="text-muted">Prized {{ post.prize }}.</p>
+                            </div>
+                            {% endif %}
+
+
+                            <div class="bg-white rounded border-primary shadow-sm seperate">
+                                <h3 class="border-bottom">Development environment</h3>
+                                {% for development in post.developments %}
+                                <div class="media text-muted">
+                                    <p class="media-body border-bottom">
+                                    {{ development }}
+                                    </p>
+                                </div>
+                                {% endfor %}
+                            </div>
+
+                            <ul class="list-inline item-details">
+                                {% if post.client %}
+                                    <li>Client:
+                                        <strong><a href="javascript:void(0);">{{ post.client }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.project-date %}
+                                    <li>Date:
+                                        <strong><a href="javascript:void(0);">{{ post.project-date }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.category %}
+                                    <li>Service:
+                                        <strong><a href="javascript:void(0);">{{ post.category }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
