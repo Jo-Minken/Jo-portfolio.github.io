@@ -14,6 +14,6 @@ description:
 
 features: ["", "", ""]
 
-developments: ["Language: PHP", "Framework: MVC-structured own framework", "Production Environment(Server/DB/Platform/Cloud Provider): Nginx / AWS RDS / Linux / AWS EC2"]
+developments: ["Language: PHP", "Framework: MVC-structured own framework", "Production Environment(Server/DB/Platform/Cloud Provider): <br> Nginx / AWS RDS / Linux / AWS EC2"]
 
 ---

@@ -14,6 +14,6 @@ description:
 
 features: ["", "", ""]
 
-developments: ["Language: Ruby, JavaScript and jQuery", "Framework: Ruby on Rails", "Production Environment(Server/DB/Platform/Cloud Provider): Nginx / mySQL / Linux / Linode"]
+developments: ["Language: Ruby, JavaScript and jQuery", "Framework: Ruby on Rails", "Production Environment(Server/DB/Platform/Cloud Provider): <br> Nginx / mySQL / Linux / Linode"]
 
 ---

@@ -14,6 +14,6 @@ description:
 
 features: ["", "", ""]
 
-developments: ["Language: Ruby", "Framework: Ruby on Rails", "Production Environment(Server/DB/Platform/Cloud Provider): Nginx / AWS DynamoDB / Linux / AWS EC2"]
+developments: ["Language: Ruby", "Framework: Ruby on Rails", "Production Environment(Server/DB/Platform/Cloud Provider): <br> Nginx / AWS DynamoDB / Linux / AWS EC2"]
 
 ---
