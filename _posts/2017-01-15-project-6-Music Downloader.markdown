@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2015-05-15
+date: 2017-01-15
 img: pj-06.jpg
 project-date: January 2017
 client: Company Project
