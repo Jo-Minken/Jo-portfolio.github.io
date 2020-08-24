@@ -8,12 +8,14 @@ client: Self Side Project
 category: Website
 title: Guide Match
 
-purpose: 
+purpose: Let foreign visitors book day tours guided by English-speaking local guides.
 
-description: 
+description: In order to learn the usage of Django, I develop this service in 1 month. 
 
-features: ["", "", ""]
+features: ["Promotion of local tours in Japan"]
 
 developments: ["Language: Python, JavaScript and jQuery", "Framework: Django"]
+
+others: Check the <a href="https://github.com/Jo-Minken/Guide-Match" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>  GitHub Repository</a>.
 
 ---

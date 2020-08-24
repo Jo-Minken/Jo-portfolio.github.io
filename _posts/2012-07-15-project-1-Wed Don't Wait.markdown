@@ -14,7 +14,7 @@ description: Wed Don't Wait is my first complete website project as well as my g
 
 features: ["Scheduler and online-remider help to automatically arrange the preparation", "Couples can book the wedding venue halls and find wedding dress providers", "Forum for couples to ask for advice"]
 
-prize: Second Place in the graduate presentation
+others: Prized Second Place in the graduate presentation
 
 developments: ["Language: C#, ASP.NET, JavaScript and jQuery", "Server: IIS"]
 

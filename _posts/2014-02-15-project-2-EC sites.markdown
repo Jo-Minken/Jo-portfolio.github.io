@@ -8,12 +8,12 @@ client: Company Project
 category: Website
 title: EC sites
 
-purpose: 
+purpose: Help startup founders of small business to build their Home Page sites with e-commerce feature.
 
-description: 
+description: Through these projects, I get familiar with Ruby on Rails and the MVC structure. From database design, feature implement to website deploy, I can handle a project independently. 
 
-features: ["", "", ""]
+features: ["Unique Landing Page", "Customized products showcase", "Shopping Cart and online payment", "Customized payment process to fit the business logic for different project"]
 
-developments: ["Language: Ruby, JavaScript and jQuery", "Framework: Ruby on Rails", "Production Environment(Server/DB/Platform/Cloud Provider): <br> Nginx / mySQL / Linux / Linode"]
+developments: ["Language: Ruby, JavaScript and jQuery", "Framework: Ruby on Rails", "Production Environment <br> (Server/DB/Platform/Cloud Provider): <br> Nginx / mySQL / Linux / Linode"]
 
 ---
