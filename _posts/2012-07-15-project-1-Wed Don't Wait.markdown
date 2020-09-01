@@ -8,7 +8,7 @@ client: Graduate Project
 category: Website
 title: Wed Don't Wait
 
-purpose: ウェディングのプランニングサイトです。結婚日を決めましたら、自動できにスケジュールをアレンジしてくれるシステムです。<br> Help couples to manage their wedding and match the wedding-related vendors to the couples. After the wedding date is decided, users can choose the wedding type (traditional or western type) of their wedding. The system will then list the steps of preparation and automatically schedule the date of each step.
+purpose: ウェディングのプランニングサイトです。結婚日を決めましたら、自動的にスケジュールをアレンジしてくれるシステムです。<br> Help couples to manage their wedding and match the wedding-related vendors to the couples. After the wedding date is decided, users can choose the wedding type (traditional or western type) of their wedding. The system will then list the steps of preparation and automatically schedule the date of each step.
 
 description: 初めてのウェブサイト作品で大学の卒業プロジェクトです。５人チームで開発しました。<br> Wed Don't Wait is my first complete website project as well as my graduate project. I am in a team with 5 members and be resposible for the schedule feature in this project.
 
